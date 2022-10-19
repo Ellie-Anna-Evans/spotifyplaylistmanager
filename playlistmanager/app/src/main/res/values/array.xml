@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_language_entries">
+        <item>@string/pref_language_entry_any</item>
+        <item>@string/pref_language_entry_english</item>
+        <item>@string/pref_language_entry_chinese</item>
+        <item>@string/pref_language_entry_japanese</item>
+        <item>@string/pref_language_entry_german</item>
+    </string-array>
+
+    <string-array name="pref_language_values">
+        <item></item>
+        <item>@string/pref_language_value_english</item>
+        <item>@string/pref_language_value_chinese</item>
+        <item>@string/pref_language_value_japanese</item>
+        <item>@string/pref_language_value_german</item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,7 @@
+configurations.maybeCreate("default")
+
+dependencies {
+
+
+}
+artifacts.add("default", file('spotify-app-remote-release-0.7.0.aar'))
